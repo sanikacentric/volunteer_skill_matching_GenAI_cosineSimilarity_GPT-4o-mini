@@ -4,7 +4,7 @@
 
 ---
 
-## The Problem This Solves — For Hiring Teams
+## The Problem This Solves 
 
 Every year, hundreds of humanitarian crises go under-resourced — not because volunteers don't exist, but because no one can find the *right* volunteer *fast enough*. When a flood hits a Spanish-speaking neighborhood in Los Angeles, a trilingual paramedic in Miami doesn't know they're needed. When a refugee camp needs Arabic-speaking trauma counselors, coordination teams spend 48 hours making phone calls instead of deploying help. This engine eliminates that gap entirely. By encoding every volunteer's skills, languages, location, and availability as a high-dimensional semantic vector, and doing the same for every incoming crisis, the system can compute — in milliseconds — which human being on Earth is the most qualified, available, and linguistically suited to respond. It doesn't match keywords. It matches *meaning*. A volunteer described as "emergency room nurse experienced in flood response" will surface for a crisis that says "medical triage needed after monsoon displacement" even though not a single word overlaps. The AI then writes a plain-English explanation that a field coordinator with zero technical background can read and act on immediately. This is what AI should be used for — not generating memes or summarizing emails, but saving lives in communities that have no other safety net. This project proves the ability to design real AI systems that are production-aware, cost-efficient, socially impactful, and built with the engineering discipline that top technology companies demand.
 
